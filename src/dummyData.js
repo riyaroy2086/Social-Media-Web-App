@@ -78,7 +78,7 @@ export const Users = [
     {
         id:11,
         profilePicture: "/assets/bp.jpeg",
-        username: "Kilmongerr",
+        username: "T'Chala",
         
 
     },
@@ -95,7 +95,7 @@ export const Users = [
     {
         id:13,
         profilePicture: "/assets/okai.jpeg",
-        username: "Okaii",
+        username: "Okoyee",
        
 
     },
@@ -133,7 +133,7 @@ export const Posts = [
         date:"2min ago",
         profilePicture: "/assets/bp.jpeg",
         photo: "/assets/spaceship.jpg",
-        username: "Kilmongerr",
+        username: "T'Chala",
         usedId :2 ,
         like: 1800,
         comment: 1694,
