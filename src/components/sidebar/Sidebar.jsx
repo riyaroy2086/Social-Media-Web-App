@@ -105,7 +105,7 @@ export default function Sidebar(){
 
                     <li className="sidebarFriend">
                         <img src="/assets/bp.jpeg" alt="" className="sidebarFriendImg" />
-                        <span className="sidebarFriendName" >Kilmongerr </span>
+                        <span className="sidebarFriendName" >T'Chala </span>
                     </li>
 
                     <li className="sidebarFriend">
@@ -115,7 +115,7 @@ export default function Sidebar(){
 
                     <li className="sidebarFriend">
                         <img src="/assets/okai.jpeg" alt="" className="sidebarFriendImg" />
-                        <span className="sidebarFriendName" >Okaii </span>
+                        <span className="sidebarFriendName" >Okoyee </span>
                     </li>
 
                     <li className="sidebarFriend">
