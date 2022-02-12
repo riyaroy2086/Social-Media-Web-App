@@ -33,51 +33,7 @@ export default function Rightbar({profile}) {
          <span className="rightbarInfoValue">Handling an IQ of 186 on a daily basis :)</span>
        </div>
        <hr className="RightbarHr"/>
-    
-
-     {/* <h4 className="rightbarTitle">User Friends</h4>
-     <div className="rightbarFollowers">
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div>
-
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div>
-
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div>
-
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div>
-
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div>
-
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div>
-
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div>
-
-       <div className="rightbarFollower">
-         <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-         <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-       </div> */}
-
-
+         
        <div className="birthdatContainer">
           <img className="birthdayImg" src="/assets/cake.jpeg" alt="" />
           <span className="birthdayText">
@@ -155,77 +111,7 @@ export default function Rightbar({profile}) {
       </>
     )
   }
-
-// const profileRightBar = () =>{
-//    return(
-     
-//      <> 
-//       <h4 className="rightbarTitle">User Info</h4>
-//      <div className="rightbarInfo">
-//        <div className="rightbarInfoItem">
-//          <span className="rightbarInfoKey">City</span>
-//          <span className="rightbarInfoValue">Kolkata</span>
-//        </div>
-
-//        <div className="rightbarInfoItem">
-//          <span className="rightbarInfoKey">From:</span>
-//          <span className="rightbarInfoValue">XYZ</span>
-//        </div>
-
-//        <div className="rightbarInfoItem">
-//          <span className="rightbarInfoKey">Relationship</span>
-//          <span className="rightbarInfoValue">Single </span>
-//        </div>
-//      </div>
-
-//      <h4 className="rightbarTitle">User Friends</h4>
-//      <div className="rightbarFollowers">
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-
-//        <div className="rightbarFollower">
-//          <img src="assets/hawk.jpeg" alt="" className="rightbarFollowerImg" />
-//          <sapn className="rightbarFollowerName"> Agent Barten</sapn>
-//        </div>
-//      </div>
-//      </> 
-//     )
-//  }
-
-
-
+  
   return (
     <div className="rightbar">
       <div className="rightbarWrapper">
