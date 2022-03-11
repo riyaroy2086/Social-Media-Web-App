@@ -1,14 +1,18 @@
 # We Connect : Social-Media-Web-App
-##### Frontend code completed for the timeline page .
-##### Tech stack used:
+## Frontend code completed for the timeline page .
+##### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> TECH STACK USED :
  * React.js ; 
  * JavaScript ; 
  * CSS ; and 
  * HTML .
-#
-![DEMO](https://user-images.githubusercontent.com/89868832/154219620-7d207959-9233-45f7-895b-0d9313d54e52.png)
-#
-![DEMO](https://user-images.githubusercontent.com/89868832/154219624-5dc9d9ba-b485-4b27-96e8-63ce37a09437.png)
-#
-![DEMO](https://user-images.githubusercontent.com/89868832/154219629-619043ea-e372-4d41-9329-e15ff75944be.png)
-#
+
+
+
+https://user-images.githubusercontent.com/89868832/157925802-172434fe-3393-4d29-b83d-e2d23a098440.mp4
+
+
+
+
+
+
+LINKED IN POST : https://www.linkedin.com/posts/riyaroy2086_connections-webdevelopment-learning-activity-6899627632816721920-SBqJ
