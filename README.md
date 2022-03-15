@@ -1,4 +1,4 @@
-# We Connect : Social-Media-Web-App
+# We Interact : Social-Media-Web-App
 ## Frontend code completed for the timeline page .
 ##### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> TECH STACK USED :
  * React.js ; 
